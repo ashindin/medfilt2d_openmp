@@ -6,6 +6,10 @@ Median filter for 2D array of doubles with openmp parallel optimizations
 2. wget.
 3. gfortran or ifort.
 
+## Command to download test.bin file:
+```bash
+python download_test_bin.py
+```
 ## Build command for gfortran:
 ```bash
 gfortran medfilt2d_omp_test.f90 -fopenmp -O3 -o medfilt2d_omp_test.out
