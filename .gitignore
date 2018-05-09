@@ -1,3 +1,8 @@
+# Binary, input and output files
+*.bin
+*.fit
+*.fits
+
 # Prerequisites
 *.d
 
