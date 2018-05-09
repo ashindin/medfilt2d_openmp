@@ -2,9 +2,9 @@
 Median filter for 2D array of doubles with openmp parallel optimizations
 
 ## Dependencies:
-1. python3 with requests and json modules/
-2. wget
-3. gfortran or ifort
+1. python3 with requests and json modules.
+2. wget.
+3. gfortran or ifort.
 
 ## Build command for gfortran:
 ```bash
